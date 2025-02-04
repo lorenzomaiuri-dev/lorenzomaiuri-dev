@@ -32,20 +32,21 @@ I'm also a dedicated **Debian** user and FOSS advocate, committed to tackling co
 #### 💻 Programming Languages & Frameworks:
 
 - Python, C#, JavaScript, Typescript, Java, PHP, C
-- AWS (S3, Lambda, EC2, RDS), Docker, Kubernetes
-- TensorFlow, Keras, scikit-learn, BERT, LangChain
-- Node.js, React.js, Flask, FastAPI, Django
+- TensorFlow, Keras, scikit-learn, BERT, LangChain, LlamaIndex
+- .NET, Node.js, React.js, Flask, FastAPI, Django
 - React Native, Flutter, Xamarin.Forms, .NET MAUI
 
 #### 🧠 Core Competencies:
 
+- Linear Algebra, Statistics, Mathematical Modelling, Optimization, Calculus, Measurement Theory, Numerical Analysis, Logic and Set Theory, Classical Mechanics
 - Machine Learning & Deep Learning
 - Natural Language Processing (NLP): BERT, text classification, fine-tuning
 - Generative AI and AI model deployment
 - Cloud Computing: AWS, serverless architectures, cost-optimization
+- Containerization: Docker, Kubernetes
 - Data Engineering, ETL, API
 - Software Architecture: Microservices, reactive systems, scalable systems
-- Problem Solving, Algorithms and Data Structures
+- Problem Solving, Algorithms and Data Structures, Networking, Operative Systems, Encryption
 
 ---
 
