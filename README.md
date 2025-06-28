@@ -1,6 +1,6 @@
-![Lorenzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lorenzomaiuri-dev&show_icons=true&theme=radical)\
+[![Lorenzo's github trophy](https://github-profile-trophy.vercel.app/?username=lorenzomaiuri-dev&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)\
+[![Lorenzo's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzomaiuri-dev&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)\
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ## Hi, I'm Lorenzo Maiuri 👋
 
 <!--
@@ -19,11 +19,20 @@ Here are some ideas to get you started:
 -->
 
 
-### Software Developer | AI Engineer | Mathematics Student
+### AI Engineer & Fullstack Developer | Generative AI • Business Automation • Data Architectures
 
-I'm a results-driven mathematics student and software developer specializing in AI/ML technologies. I have a strong mathematical foundation with expertise in **LLM fine-tuning**, **BERT implementations**, and **generative AI projects**. I'm passionate about machine learning, deep learning, and innovation.\
-📚 I'm pursuing a Bachelor's in Mathematics and Computer Science, focusing on AI and deep learning. I'm passionate about building solutions that scale and learning new approaches in the AI and Computer Science domains\
-I'm also a dedicated **Debian** user and FOSS advocate, committed to tackling complex challenges and delivering impactful results.
+🌱 I’m an independent software engineer and AI consultant helping businesses design and deploy intelligent, scalable, and high-impact solutions.
+
+💡 I specialize in fullstack development, AI automation, and Generative AI powered applications — blending deep technical skills with product-oriented thinking
+
+👯 I work with startups, B2B clients, and SMEs to turn complex ideas into production-ready systems — with a focus on business value, not just prototypes.
+
+🔭 Currently focused on generative AI, intelligent assistants, and backend data architectures
+
+🚀 I'm also a dedicated **Debian** user and FOSS advocate, committed to tackling complex challenges and delivering impactful results.
+
+
+🌐 Portfolio: https://lorenzomaiuri.dev
 
 ---
 
@@ -31,22 +40,18 @@ I'm also a dedicated **Debian** user and FOSS advocate, committed to tackling co
 
 #### 💻 Programming Languages & Frameworks:
 
-- Python, C#, JavaScript, Typescript, Java, PHP, C
-- TensorFlow, Keras, scikit-learn, BERT, LangChain, LlamaIndex
-- .NET, Node.js, React.js, Flask, FastAPI, Django
+- Python, C#, JavaScript/Typescript, Java, PHP, C
+- PyTorch, TensorFlow, Keras, scikit-learn, LangChain, LlamaIndex
+- .NET, Node.js, React.js, Angular, Next.js, Flask, FastAPI, Django
 - React Native, Flutter, Xamarin.Forms, .NET MAUI
 
 #### 🧠 Core Competencies:
 
 - Linear Algebra, Statistics, Mathematical Modelling, Optimization, Calculus, Measurement Theory, Numerical Analysis, Logic and Set Theory, Classical Mechanics
 - Machine Learning & Deep Learning
-- Natural Language Processing (NLP): BERT, text classification, fine-tuning
-- Generative AI and AI model deployment
-- Cloud Computing: AWS, serverless architectures, cost-optimization
-- Containerization: Docker, Kubernetes
-- Data Engineering, ETL, API
-- Software Architecture: Microservices, reactive systems, scalable systems
-- Problem Solving, Algorithms and Data Structures, Networking, Operative Systems, Encryption
+- NLP, Computer Vision, AI Agents, Chatbots, RAG
+- Microservices, reactive systems, scalable systems, Event-Driven Architecture, CQRS, Domain-Driven Design
+- Fullstack platforms, Mobile apps, Intelligent automation and ML systems, Data architectures, Cloud deployments
 
 ---
 
