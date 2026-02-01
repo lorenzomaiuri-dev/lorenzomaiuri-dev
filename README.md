@@ -1,73 +1,67 @@
-[![Lorenzo's github trophy](https://github-profile-trophy.vercel.app/?username=lorenzomaiuri-dev&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)\
-[![Lorenzo's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzomaiuri-dev&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)\
+# Hi, I'm Lorenzo Maiuri 👋
+
+[![Lorenzo's top languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lorenzomaiuri-dev&theme=dracula)](https://github.com/lorenzomaiuri-dev/github-readme-stats-fast)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-## Hi, I'm Lorenzo Maiuri 👋
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-<!--
-**lorenzomaiuri-dev/lorenzomaiuri-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 AI Engineer & Software Consultant
+**Helping businesses design and deploy intelligent, scalable, and high-impact solutions.**
 
-Here are some ideas to get you started:
+I am an independent software engineer and AI consultant specializing in Generative AI, intelligent automation, and robust backend architectures. I bridge the gap between deep technical implementation and product-oriented business value.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-### AI Engineer & Fullstack Developer | Generative AI • Business Automation • Data Architectures
-
-🌱 I’m an independent software engineer and AI consultant helping businesses design and deploy intelligent, scalable, and high-impact solutions.
-
-💡 I specialize in fullstack development, AI automation, and Generative AI powered applications — blending deep technical skills with product-oriented thinking
-
-👯 I work with startups, B2B clients, and SMEs to turn complex ideas into production-ready systems — with a focus on business value, not just prototypes.
-
-🔭 Currently focused on generative AI, intelligent assistants, and backend data architectures
-
-🚀 I'm also a dedicated **Debian** user and FOSS advocate, committed to tackling complex challenges and delivering impactful results.
-
-
-🌐 Portfolio: https://lorenzomaiuri.dev
+- 🚀 **Scale**: Led architecture for enterprise platforms serving **+8,000,000 users**.
+- 🛠️ **Efficiency**: Developed AI automation reducing manual processing time by **+90%**.
+- 💡 **Innovation**: Building production-ready LLM orchestrators, agentic workflows, and cloud-native AI assistants.
+- 🎓 **Education**: Pursuing a B.Sc. in Mathematics and Computer Science at Università Cattolica del Sacro Cuore.
 
 ---
 
-### 🛠️ **Skills**
+### 🛠️ **Technical Stack**
 
-#### 💻 Programming Languages & Frameworks:
-
-- Python, C#, JavaScript/Typescript, Java, PHP, C
-- PyTorch, TensorFlow, Keras, scikit-learn, LangChain, LlamaIndex
-- .NET, Node.js, React.js, Angular, Next.js, Flask, FastAPI, Django
-- React Native, Flutter, Xamarin.Forms, .NET MAUI
-
-#### 🧠 Core Competencies:
-
-- Linear Algebra, Statistics, Mathematical Modelling, Optimization, Calculus, Measurement Theory, Numerical Analysis, Logic and Set Theory, Classical Mechanics
-- Machine Learning & Deep Learning
-- NLP, Computer Vision, AI Agents, Chatbots, RAG
-- Microservices, reactive systems, scalable systems, Event-Driven Architecture, CQRS, Domain-Driven Design
-- Fullstack platforms, Mobile apps, Intelligent automation and ML systems, Data architectures, Cloud deployments
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **AI & Machine Learning** | PyTorch, TensorFlow, LangChain, LlamaIndex, Scikit-learn, BERT, Transformers, Computer Vision |
+| **Backend & APIs** | Python, C# (.NET), Node.js, FastAPI, Django, Java, PHP, REST/GraphQL |
+| **Frontend & Mobile** | React, Next.js, TypeScript, Flutter, React Native, .NET MAUI |
+| **Data & DevOps** | PostgreSQL, Redis, MongoDB, AWS, GCP, Docker, Kubernetes, Apache Airflow, Apache Kafka, CI/CD |
+| **Architecture** | Microservices, Event-Driven Architecture, Domain-Driven Design (DDD), RAG |
 
 ---
 
 ### 🚀 **Featured Projects**
-Here are some of the projects I've worked on:
 
-#### 1. **Misogyny Detection in Italian Text**
-   - Fine-tuned a BERT model for detecting misogynistic content in Italian texts.
-   - Implemented a comprehensive NLP pipeline for text preprocessing and classification.
-   - **Technologies**: BERT, NLP, Text Classification, Fine-Tuning
-   - [View it](https://huggingface.co/maiurilorenzo/misogyny-detection-it)
+#### 🤖 [LorenzoBot — LLM-Powered Assistant](https://lorenzomaiuri.dev)
+A cloud-native AI assistant leveraging **multi-agent reasoning**, persistent memory, and Gemini integration to provide context-aware information about my technical work.
 
-#### 2. **Reactive Architecture Guide**
-   - Developed a comprehensive guide for building responsive and resilient systems.
-   - Explored patterns for microservices and distributed systems architecture.
-   - **Technologies**: Microservices, DDD, Distributed Systems, Scalable Architecture
-   - [View it](https://github.com/lorenzomaiuri-dev/ReactiveArchitecture)
+#### 🧬 [Histopathologic Cancer Detection CNN](https://huggingface.co/maiurilorenzo/histoplastic-cancer-CNN-classifier)
+A deep learning classifier designed to detect metastatic tissue in histopathologic scans. Optimized for high-precision medical image analysis.
+*   **Tech**: PyTorch, Computer Vision, CNNs.
+
+#### 📜 [DanteGPT](https://huggingface.co/maiurilorenzo/dante-gpt)
+A fine-tuned GPT-2 model trained to emulate the poetic structure and thematic elements of Dante Alighieri’s *Divina Commedia*.
+*   **Tech**: NLP, LLM Fine-Tuning, Transformers.
+
+#### 🛡️ [Misogyny Detection in Italian Text](https://huggingface.co/maiurilorenzo/misogyny-detection-it)
+A BERT-based specialized NLP model for detecting and classifying misogynistic content in Italian, focusing on social media safety.
 
 ---
+
+### 📜 **Certifications & Achievements**
+
+*   **Hugging Face Agents Course** – *Certificate of Excellence* (SmolAgents, Tool Orchestration, GAIA benchmark)
+*   **AWS Certified AI Practitioner** – *Score: 1000/1000 (Early Adopter)*
+*   **Machine Learning Scientist with Python** – DataCamp
+*   **Winner of "Storie di Alternanza"** – 1st Prize for a Cloud-controlled IoT system.
+
+---
+
+### 🌐 Let's Connect
+
+- **Portfolio:** [lorenzomaiuri.dev](https://lorenzomaiuri.dev)
+- **LinkedIn:** [linkedin.com/in/maiurilorenzo](https://www.linkedin.com/in/maiurilorenzo/)
+- **HuggingFace:** [huggingface.co/maiurilorenzo](https://huggingface.co/maiurilorenzo)
+- **Kaggle:** [kaggle.com/lorenzomaiuri](https://www.kaggle.com/lorenzomaiuri/competitions)
+
+---
+*"Turning complex ideas into production-ready systems — with a focus on business value, not just prototypes."*
